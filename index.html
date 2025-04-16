@@ -2,15 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <!-- Ensure favicon is correctly linked -->
-    <link rel="icon" href="/NestLuxe-website/favicon.ico" />
+    <link rel="icon" href="./favicon.ico" /> <!-- ✅ Relative path -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NestLuxe</title>
   </head>
   <body>
-    <div id="root"></div> <!-- React App mounts here -->
-    
-    <!-- Adjusting the script path for GitHub Pages -->
-    <script type="module" src="/NestLuxe-website/src/main.jsx"></script>
+    <div id="root"></div>
+
+    <!-- ✅ Change this to a relative path -->
+    <script type="module" src="./src/main.jsx"></script>
   </body>
 </html>
