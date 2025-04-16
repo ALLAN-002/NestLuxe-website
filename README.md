@@ -1,12 +1,8 @@
-# React + Vite
+This is a website that is aimed to provide solution on house and property hunt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website also contain various hidden-gems for luxury for easy access of tourist and vacation sites.
 
-Currently, two official plugins are available:
+For housing purposes this web majors on city dwelling of Nairoby Appatments and its adjacent Kiambu County:
+For luxury the setting majors on Kenyan vacation and tourist sites at large
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+It also goes beyond to give a platform to property owners such as land and appartments to sell their property.
